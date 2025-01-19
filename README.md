@@ -2,7 +2,7 @@
 
 # SOLARIS
 
-Responsive-Cacti-website with:
+Responsive-Solar-Panels-website with:
 1. Beautiful solar panel Website using HTML5, CSS3 and JAVASCRIPT. 
 2. Engaging animations transitions when scrolling. 
 4. Developed first with the Mobile First methodology, then for desktop. 
